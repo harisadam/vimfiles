@@ -10,7 +10,7 @@ set rtp+=~/Projects/Vim/vimfiles/bundle/vundle/
 call vundle#rc()
 
 " let Vundle manage Vundle
-" required! 
+" required!
 Bundle 'gmarik/vundle'
 
 Bundle 'matthewtodd/vim-twilight'
@@ -19,8 +19,10 @@ Bundle 'scrooloose/nerdtree'
 Bundle 'jistr/vim-nerdtree-tabs'
 Bundle 'bling/vim-airline'
 Bundle 'tpope/vim-endwise'
+Bundle 'tpope/vim-rails'
+Bundle 'cakebaker/scss-syntax.vim'
 
-filetype plugin indent on     
+filetype plugin indent on
 "
 " Brief help
 " :BundleList          - list configured bundles
