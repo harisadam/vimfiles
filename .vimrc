@@ -23,6 +23,7 @@ Bundle 'tpope/vim-rails'
 Bundle 'cakebaker/scss-syntax.vim'
 Bundle 'flazz/vim-colorschemes'
 Bundle 'msanders/snipmate.vim'
+Bundle 'kchmck/vim-coffee-script'
 
 filetype plugin indent on
 "
