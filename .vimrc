@@ -24,6 +24,7 @@ Bundle 'cakebaker/scss-syntax.vim'
 Bundle 'flazz/vim-colorschemes'
 Bundle 'msanders/snipmate.vim'
 Bundle 'kchmck/vim-coffee-script'
+Bundle 'airblade/vim-gitgutter'
 
 filetype plugin indent on
 "
